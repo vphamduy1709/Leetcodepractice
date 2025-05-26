@@ -62,5 +62,5 @@ void minStackFree(MinStack* obj) {
         minStackPop(obj);
     }
     free(obj);
-    printf("HELLO WOLRD");
+   
 }
